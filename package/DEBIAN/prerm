@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# run uninstall script
+/usr/src/time2backup-server/uninstall.sh
+
+# do not break uninstall process if the previous command fails
+true

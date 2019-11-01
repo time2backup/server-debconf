@@ -1,0 +1,9 @@
+Package: time2backup-server
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash, rsync, openssh-server
+Maintainer: Jean Prunneaux <jean@prunneaux.com>
+Homepage: https://time2backup.org
+Description: time2backup ssh server

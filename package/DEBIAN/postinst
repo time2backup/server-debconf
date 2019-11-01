@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# run install script
+/usr/src/time2backup-server/install.sh
+
+# do not break install process if the previous command fails
+true
